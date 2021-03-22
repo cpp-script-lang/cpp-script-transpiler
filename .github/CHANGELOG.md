@@ -12,17 +12,18 @@
 </dl>
 
 # Future releases
+
 # 0.1.0-beta+win.unix.linux
-## [C&nbsp;&nbsp;&nbsp; - 22.03.2021]
-## [P&nbsp;&nbsp;&nbsp; - 22.03.2021]
-## [SV&nbsp; - 22.03.2021]
-## [R&nbsp;&nbsp;&nbsp; - ]
-## [LTS - NO]
+- [C&nbsp;&nbsp;&nbsp; - 22.03.2021]
+- [P&nbsp;&nbsp;&nbsp; - 22.03.2021]
+- [SV&nbsp; - 22.03.2021]
+- [R&nbsp;&nbsp;&nbsp; - 22.03.2021]
+- [LTS - NO]
 You can only display help and version
-
-    -v or --version
-    -h or --help
-
+```
+-v or --version
+-h or --help
+```
 default option: displaying help
 
 --------
@@ -36,16 +37,16 @@ default option: displaying help
   Unknown command &lt;command here&gt;
 
 # 0.1.0-beta+win
-## [C&nbsp;&nbsp;&nbsp; - 22.03.2021]
-## [P&nbsp;&nbsp;&nbsp; - 22.03.2021]
-## [SV&nbsp; - 22.03.2021]
-## [R&nbsp;&nbsp;&nbsp; - ]
-## [LTS - NO]
+- [C&nbsp;&nbsp;&nbsp; - 22.03.2021]
+- [P&nbsp;&nbsp;&nbsp; - 22.03.2021]
+- [SV&nbsp; - 22.03.2021]
+- [R&nbsp;&nbsp;&nbsp; - ]
+- [LTS - NO]
 You can only display help and version
-
-    -v or --version
-    -h or --help
-
+```
+-v or --version
+-h or --help
+```
 default option: displaying help
 
 --------
@@ -53,9 +54,10 @@ default option: displaying help
     file.cpps -o file.cpp -- Creating a file file.cpp only
 
 # 0.1.0-alpha+win
-## [C&nbsp;&nbsp;&nbsp; - 22.03.2021]
-## [P&nbsp;&nbsp;&nbsp; - ]
-## [SV&nbsp; - Not stable]
-## [R&nbsp;&nbsp;&nbsp; - ]
-## [LTS - NO]
+- [C&nbsp;&nbsp;&nbsp; - 22.03.2021]
+- [P&nbsp;&nbsp;&nbsp; - ]
+- [SV&nbsp; - Not stable]
+- [R&nbsp;&nbsp;&nbsp; - ]
+- [LTS - NO]
+
 - not stable version
