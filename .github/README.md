@@ -1,4 +1,4 @@
-# cpp-script Traspiler
+# cpp-script Transpiler
 
 # Building
 On Windows (in cmd):
