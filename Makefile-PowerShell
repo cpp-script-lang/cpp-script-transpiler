@@ -1,0 +1,9 @@
+CXXFLAGS=-std=c++2a -I. -fconcepts
+all :
+	md bin
+	cd bin
+	g++ API.hpp errors.hpp other.hpp transpiler.hpp main.cpp -o cpp-trans $(CXXFLAGS)
+	@echo Built target cpps-trans.
+
+clean :
+	rd -Force bin
